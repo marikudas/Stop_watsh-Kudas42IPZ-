@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kudas42IPZLaba03</string>
+    <string name="timer">0.00.00</string>
+    <string name="startB">Start</string>
+    <string name="pauseB">Pause</string>
+    <string name="resetB">Reset</string>
+</resources>
